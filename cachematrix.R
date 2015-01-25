@@ -1,10 +1,10 @@
 ## The two functions cache the inverse of a given matrix.
 ##
-## Note: the matrix supplied is always invertible.
+## Note: the matrix supplied should always be invertible.
 
 ## makeCacheMatrix is a function taking a matrix as it argument.
 ##
-## It will expose:
+## It provides:
 ##
 ## Setting the value of the matrix
 ## Getting the value of the matrix
